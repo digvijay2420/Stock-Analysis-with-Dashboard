@@ -1,0 +1,8 @@
+requests
+pandas
+matplotlib
+seaborn
+plotly
+yfinance
+BeautifulSoup
+warnings

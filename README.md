@@ -21,7 +21,8 @@ This project combines **data engineering, financial data analysis, and visualiza
 ---
 
 ## 📂 Files in this Repository
-- `Analyzing_Historical_Stock_data_and_building_a_dashboard.ipynb` → Main Jupyter Notebook with code, analysis, and visualizations.
+- `data` - dtata sources used inside the Jupyter notebook as libraries
+- `notebook` → Main Jupyter Notebook with code, analysis, and visualizations.
 - `README.md` → Documentation of the project
 
 ## 🛠️ Tools & Libraries

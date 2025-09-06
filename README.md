@@ -21,7 +21,7 @@ This project combines **data engineering, financial data analysis, and visualiza
 ## 📂 Repository Structure
 Stock-Analysis-with-Dashboard/
 │── data/
-│    └── DATA_SOURCE.md             # Links to Yahoo Finance stock data
+│    └── Dataset.md             # Links to Yahoo Finance stock data
 │
 │── notebooks/
 │    └── analysing_stock_prices.ipynb  # Jupyter Notebook with analysis

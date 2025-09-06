@@ -18,6 +18,18 @@ In this project, we:
 
 This project combines **data engineering, financial data analysis, and visualization** into one workflow.
 
+## 📂 Repository Structure
+Stock-Analysis-with-Dashboard/
+│── data/
+│    └── DATA_SOURCE.md             # Links to Yahoo Finance stock data
+│
+│── notebooks/
+│    └── analysing_stock_prices.ipynb  # Jupyter Notebook with analysis
+│
+│── requirements.txt                # Dependencies
+│── README.md                       # Project overview
+
+
 ---
 
 ## 📂 Files in this Repository
@@ -49,3 +61,5 @@ Together, they provide an interactive way to understand the relationship between
    ```bash
    git clone https://github.com/your-username/Stock-Analysis-with-Dashboard.git
    cd Stock-Analysis-with-Dashboard
+   pip install -r requirements.txt
+   jupyter notebook notebooks/analysing_stock_prices.ipynb
